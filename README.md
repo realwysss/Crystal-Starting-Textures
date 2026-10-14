@@ -14,8 +14,7 @@ a cpvp base pack. needs nothing else.
 - lighting is left on default, so brightness and fullbright mods work
 - enchantment levels show as 1, 2, 3 instead of I, II, III (potion levels too)
 
-
-version: minecraft 1.21.11 (pack format 75)
+version: minecraft 1.21.11
 
 ![hand](screenshots/hand.png)
 
